@@ -1,6 +1,6 @@
 # NTRUPrimePolyMultF3
 
-This repository contains C implementation of the new hybrid polynomial multiplication algorithms over Z<sub>3</sub> that are used in the paper "Faster Characteristic Three Polynomial Multiplication and Its Application to NTRU Prime Decapsulation" by E. Yeniaras and M. Cenk. One can refer to the paper: https://eprint.iacr.org/2020/1336.pdf for the details of the algorithms given in this repocitory. We add sample input files for each different polynomial-sizes: n=768, n=765, and n=761. 
+This repository contains C implementation of the new hybrid polynomial multiplication algorithms over Z<sub>3</sub> that are used in the paper "Faster Characteristic Three Polynomial Multiplication and Its Application to NTRU Prime Decapsulation" by E. Yeniaras and M. Cenk. One can refer to the paper: https://eprint.iacr.org/2020/1336.pdf for the details of the algorithms given in this repocitory. We add sample input files: "inp761test", "inp765test", and "inp768test" corresponding to the polynomial sizes n=761, n=765, and n=768.
 
 Benchmark tests for all implementations are performed on an Intel (R) Core (TM) i7-9750H processor running at 2600 MHz. The operating system is Ubuntu 20.04.1 LTS and Linux Kernel 5.4.0. All software is compiled with gcc-9.3.0.
 
