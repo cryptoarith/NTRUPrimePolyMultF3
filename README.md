@@ -4,7 +4,7 @@ This repository contains C implementation of the new hybrid polynomial multiplic
 
 Benchmark tests for all implementations are performed on an Intel (R) Core (TM) i7-9750H processor running at 2600 MHz. The operating system is Ubuntu 20.04.1 LTS and Linux Kernel 5.4.0. All software is compiled with gcc-9.3.0.
 
-Note that we execute each algorithm 100.000 times and get the median of these executions to compare the cycle counts. 
+Note that we execute each algorithm 100.000 times and get the median of the executions to compare the cycle counts. 
 
 
 # Contributors
