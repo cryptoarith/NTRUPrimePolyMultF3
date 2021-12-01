@@ -6,7 +6,6 @@
 #include <stdint.h>
 
 /*************************************************
-
 * Arguments:   struct complex a[]:        array of  F_3 coefficients for the input polynomial a(x)
 *              struct complex b[]:        array of F_3  coefficients for the input polynomial b(x)
 *              struct complex c[]:        array of F_3  coefficients for the multiplication polynomial c(x)=a(x).b(x)    
