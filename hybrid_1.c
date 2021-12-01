@@ -7,13 +7,6 @@
 
 
 /*************************************************
-* Name:         Hybrid-1 Algorithm corresponds to ka2_real() function below.
-*               See the paper: "Faster Charateristic Three Polynomial Multiplication and 
-*				Its Application to NTRU Prime Decapsulation" by E. Yeniaras and M. Cenk for the details of the algorithm:
-*               https://eprint.iacr.org/2020/1336.pdf
-*
-* Description: Multiplies two polynomials with input size "n=768" with coefficients in F_3
-*              Using a combination of  5 levels of KA2 then 1 level of SB algorithms that are described in the paper: https://eprint.iacr.org/2020/1336.pdf
 *
 * Arguments:   struct complex a[]:        array of  F_3 coefficients for the input polynomial a(x)
 *              struct complex b[]:        array of F_3  coefficients for the input polynomial b(x)
