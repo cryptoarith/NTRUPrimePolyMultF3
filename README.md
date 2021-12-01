@@ -1,6 +1,6 @@
 # NTRUPrimePolyMultF3
 
-Please refer to the paper: https://eprint.iacr.org/2020/1336.pdf for the details of the new algorithms and their applications.
+Please refer to the paper: https://eprint.iacr.org/2020/1336.pdf for the details.
 
 
 
