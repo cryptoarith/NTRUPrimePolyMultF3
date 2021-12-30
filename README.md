@@ -1,6 +1,6 @@
 # NTRUPrimePolyMultF3
 
-Please refer to the paper: https://eprint.iacr.org/2020/1336.pdf for the details.
+Please refer to the preprint: https://eprint.iacr.org/2020/1336.pdf for the details.
 
 
 
